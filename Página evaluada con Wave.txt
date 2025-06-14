@@ -1,0 +1,8 @@
+Página evaluada con Wave
+
+https://es.wallapop.com/muebles-deco-y-jardin/barbacoa-de-carbon
+
+
+El resultado es que la página tiene un excelente margen de accesibilidad, presenta un buen uso de las etiquetas aria en los elementos, tiene un buen uso de los encabezados de texto, en el nivel que corresponde. En general, tiene un buen contraste entre el fondo y las imágenes o texto, salvo en ciertas partes de la página en las que Wave sugiere que se debería subir el contraste del color del texto. Otra de las áreas de mejora están en la redundancia de los textos alternativos.
+
+
